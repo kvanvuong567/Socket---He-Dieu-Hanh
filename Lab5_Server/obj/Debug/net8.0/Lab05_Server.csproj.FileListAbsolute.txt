@@ -1,0 +1,14 @@
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\bin\Debug\net8.0\Lab05_Server.exe
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\bin\Debug\net8.0\Lab05_Server.deps.json
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\bin\Debug\net8.0\Lab05_Server.runtimeconfig.json
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\bin\Debug\net8.0\Lab05_Server.dll
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\bin\Debug\net8.0\Lab05_Server.pdb
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\Lab05_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\Lab05_Server.AssemblyInfoInputs.cache
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\Lab05_Server.AssemblyInfo.cs
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\Lab05_Server.csproj.CoreCompileInputs.cache
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\Lab05_Server.dll
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\refint\Lab05_Server.dll
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\Lab05_Server.pdb
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\Lab05_Server.genruntimeconfig.cache
+D:\USB VUONG\Hệ Điều Hành\Thực hành\Lab5_Server\obj\Debug\net8.0\ref\Lab05_Server.dll
